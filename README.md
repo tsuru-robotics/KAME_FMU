@@ -4,9 +4,9 @@ KAME FMU is a flight management unit for Altium KAME Reference Design project
 License: cc-by-sa-3.0
 
 KAME FMU+IMU is a special-purpose microontroller and sensor module, and is building on the work done by the following great open-hardware projects:
-Pixhawk FMUv1 by @pixhawk: https://github.com/pixhawk/Hardware/blob/master/README.md, licensed under cc-by-sa-3.0
-Cube by @ProfiCNC: https://github.com/proficnc/The-Cube/tree/master/FMU, licensed under cc-by-sa-3.0
-Pixracer by @AUAV-OpenSource: https://github.com/AUAV-OpenSource/FMUv4-PixRacer, licensed under cc-by-sa-3.0
+- Pixhawk FMUv1 by @pixhawk: https://github.com/pixhawk/Hardware/blob/master/README.md, licensed under cc-by-sa-3.0
+- Cube by @ProfiCNC: https://github.com/proficnc/The-Cube/tree/master/FMU, licensed under cc-by-sa-3.0
+- Pixracer by @AUAV-OpenSource: https://github.com/AUAV-OpenSource/FMUv4-PixRacer, licensed under cc-by-sa-3.0
 
 
 KAME FMU+IMU is an open hardware design that is an evolution of the PixHawk, Pixracer, and Cube autopilot designs, licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.
