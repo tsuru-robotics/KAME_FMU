@@ -1,4 +1,4 @@
-# KAME_FMU
+# KAME FMU+IMU autopilot module
 KAME FMU is a flight management unit for Altium KAME Reference Design project.
 
 License: cc-by-sa-3.0
