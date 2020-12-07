@@ -19,4 +19,4 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 
 KAME FMU+IMU design was created in 2018. 
-Tsuru Robotics holds (pending pull-request to @proficnc) a license to use patent number 10,613,526 B2 issued 7th April 2020 issued to HEX Technology Limited, HK.
+Tsuru Robotics holds (pending pull-request to @proficnc) a license to use patent number 10,613,526 B2 issued 7th April 2020 to HEX Technology Limited, HK.
